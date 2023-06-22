@@ -85,6 +85,13 @@
 
 ## Follow-up Research
 
+Paper
+- Korean Title : 한-영 관용구 기계번역을 위한 NMT 학습 방법
+(HCLT 2020 (Annual Conference on Human and Cognitive Language Technology))
+- Download Paper (Korean)
+    
+    [HCLT 한-영 관용구 기계번역을 위한 NMT 학습 방법.pdf](https://drive.google.com/file/d/1yOJpgt5XK80dPaWWyA3c_WpyOia0Cf86/view?usp=share_link)
+
 [https://velog.io/@judy_choi/NMT-Training-Method-for-Korean-English-Idiom-Machine-Translation](https://velog.io/@judy_choi/NMT-Training-Method-for-Korean-English-Idiom-Machine-Translation)
 
 ## Reference Project 🌳🦜
